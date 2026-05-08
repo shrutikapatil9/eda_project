@@ -5,7 +5,12 @@ This project focuses on Exploratory Data Analysis (EDA) of global education and 
 
 The goal of this project is to uncover meaningful insights from education-related datasets using Python data analysis and visualization libraries.
 
+
 ---
+## View Notebook
+
+Click here to view the notebook:
+(https://nbviewer.org/github/shrutikapatil9/eda_project/blob/main/edaproject.ipynb)
 ![Plot Description](https://github.com/shrutikapatil9/eda_project/blob/main/Screenshot%202026-05-08%20100040.png)
 
 
