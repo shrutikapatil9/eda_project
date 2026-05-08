@@ -4,7 +4,7 @@
 This project focuses on Exploratory Data Analysis (EDA) of global education and literacy data. The analysis explores literacy rates across different education levels, gender-based literacy differences, and trends in educational development across countries and regions.
 
 The goal of this project is to uncover meaningful insights from education-related datasets using Python data analysis and visualization libraries.
-![Literacy Rate Chart](Screenshot 2026-05-08 100040.png)
+![Literacy Rate Chart]([Screenshot 2026-05-08 100040.png](https://github.com/shrutikapatil9/eda_project/blob/main/Screenshot%202026-05-08%20100040.png))
 ---
 
 
